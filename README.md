@@ -1,7 +1,5 @@
- <div align="center">
-  https://github.com/perschip/perschip/blob/main/header.png
-  </div>
-# <div align="center">I'm Paul Perschilli, a full-stack developer providing private commission's </div>  
+
+# <div align="center">I'm Paul Perschilli, a self taught full-stack developer of 8 years
   
 
 - 🔭 I’m currently working on [Minefaze Network](https://www.minefaze.net)  
