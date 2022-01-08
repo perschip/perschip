@@ -64,10 +64,8 @@
 <br/>  
 
 ### Trophies and Code Scores
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  ![](https://gitwar.herokuapp.com/badge?username=perschip)
- </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 
 
 ## Connect with me  
