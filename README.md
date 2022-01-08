@@ -6,7 +6,7 @@
 ### <div align="center">I'm Paul Perschilli, a full-stack developer providing private commission's </div>  
   
 
-- 🔭 I’m currently working on   
+- 🔭 I’m currently working on [Minefaze Networks](https://www.minefaze.net)  
   
 
 - 🌱 I’m currently learning Rust  
