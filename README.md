@@ -1,12 +1,8 @@
-<div align="center">
-
-</div>  
+  
+# <div align="center">I'm Paul Perschilli, a full-stack developer providing private commission's </div>  
   
 
-### <div align="center">I'm Paul Perschilli, a full-stack developer providing private commission's </div>  
-  
-
-- 🔭 I’m currently working on [Minefaze Networks](https://www.minefaze.net)  
+- 🔭 I’m currently working on [Minefaze Network](https://www.minefaze.net)  
   
 
 - 🌱 I’m currently learning Rust  
@@ -66,6 +62,12 @@
 </td></tr></table>  
 
 <br/>  
+
+### Trophies and Code Scores
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  ![](https://gitwar.herokuapp.com/badge?username=perschip)
+ </div>
 
 
 ## Connect with me  
