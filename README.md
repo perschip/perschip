@@ -1,4 +1,6 @@
-  
+ <div align="center">
+  https://github.com/perschip/perschip/blob/main/header.png
+  </div>
 # <div align="center">I'm Paul Perschilli, a full-stack developer providing private commission's </div>  
   
 
@@ -101,14 +103,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=perschip&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
+ 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=thejeteman01&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></div>  
 
