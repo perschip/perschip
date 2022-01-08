@@ -11,7 +11,7 @@
 - ❓ Ask me about anything related to spigot coding and related technology  
   
 
-- ⚡ Fun fact: I prefer to work alone  
+- ⚡ Fun fact: Nationaly ranked paintball player & adrenaline junkie
   
 
 <br/>  
